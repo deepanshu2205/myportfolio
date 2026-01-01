@@ -41,7 +41,7 @@ export default function Page() {
   download
   className="px-3 py-1.5 bg-white text-black rounded-full text-xs font-medium hover:bg-[#eaff00] transition"
 >
-  CV
+  Download CV
 </a>
 
 
