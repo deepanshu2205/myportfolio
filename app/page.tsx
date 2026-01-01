@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Mail, Phone, Download, Menu, X } from 'lucide-react';
+import { Mail, Phone, Download, Menu, X, Linkedin } from 'lucide-react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 
 export default function Page() {
@@ -41,8 +41,18 @@ export default function Page() {
   download
   className="px-3 py-1.5 bg-white text-black rounded-full text-xs font-medium hover:bg-[#eaff00] transition"
 >
-  Download CV
+  CV
 </a>
+
+  <a
+    href="https://www.linkedin.com/in/deepanshu-profile/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="hover:text-[#eaff00] transition"
+  >
+    <Linkedin size={18} />
+  </a>
+
 
 
       {/* MOBILE MENU BUTTON */}
@@ -224,15 +234,30 @@ function Hero() {
 
   return (
     <div className="relative max-w-7xl w-full text-center">
-      <motion.h1
-        initial={{ opacity: 0, y: 40 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8 }}
-        style={{ letterSpacing: 'clamp(-0.05em, -0.02vw, -0.02em)' }}
-        className="text-[16vw] sm:text-[14vw] md:text-[12vw] leading-none font-extrabold text-[#eaff00]"
-      >
-        DEEPANSHU
-      </motion.h1>
+      <div className="w-full max-w-[100vw] overflow-hidden flex justify-center">
+  <motion.h1
+    initial={{ opacity: 0, y: 40 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.8 }}
+    style={{
+      letterSpacing: 'clamp(-0.03em, -0.01vw, -0.02em)',
+    }}
+    className="
+      px-3
+      text-[13.8vw]
+      sm:text-[14vw]
+      md:text-[12vw]
+      leading-none
+      font-extrabold
+      text-[#eaff00]
+      whitespace-nowrap
+    "
+  >
+    DEEPANSHU
+  </motion.h1>
+</div>
+
+
 
       <motion.div style={{ y: imageY }} className="mt-16 flex justify-center">
         <div className="w-44 h-60 sm:w-52 sm:h-72 md:w-56 md:h-72 rounded-full overflow-hidden border border-white/10">
