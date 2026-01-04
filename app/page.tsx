@@ -126,6 +126,11 @@ export default function Page() {
       link="https://www.notion.so/GTM-Bomdrop-X-HiveSchool-277d7813d1db809f8a03fbd58c8df431?source=copy_link"
     />
     <Project
+      logo="/logos/minimalist.png"
+      title="Minimalist Growth Capstone"
+      link="https://www.notion.so/Minimalist-Growth-Capstone-2dcd7813d1db8026aedbdeb8cfc96b87?source=copy_link"
+    />
+    <Project
       logo="/logos/drivigo.png"
       title="Drivigo — Market Entry & Revenue GTM"
       link="https://www.notion.so/GTM-Strategy-Drivigo-244d7813d1db801e8bf8e791c88bb39a?source=copy_link"
