@@ -126,6 +126,11 @@ export default function Page() {
       link="https://drive.google.com/file/d/1kFxQAYV0v6h_FuYdNKYbSyzn5vCYeZst/view?usp=sharing"
     />
     <Project
+      logo="/logos/wholetruth.png"
+      title="Whole Truth Growth Capstone"
+      link="https://docs.google.com/spreadsheets/d/1u4FVa779zJl05OAoA1yAOioiKGEbCYypssiCSk0DZU4/edit?usp=sharing"
+    />
+    <Project
       logo="/logos/bomdrop.png"
       title="BomDrop — Winning GTM Strategy"
       link="https://www.notion.so/GTM-Bomdrop-X-HiveSchool-277d7813d1db809f8a03fbd58c8df431?source=copy_link"
