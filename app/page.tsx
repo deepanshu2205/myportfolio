@@ -121,6 +121,11 @@ export default function Page() {
       <Section id="projects" title="PROJECTS">
   <div className="grid md:grid-cols-2 gap-14">
     <Project
+      logo="/logos/linkedin.png"
+      title="B2B SaaS Outreach Capstone <> LinkedIn Recruiter"
+      link="https://www.notion.so/B2B-SaaS-Outreach-Capstone-LinkedIn-Recruiter-2dfd7813d1db80f7815ad0440ed0cacd?source=copy_link"
+    />
+    <Project
       logo="/logos/birdeye.png"
       title="BirdEye <> Sales Deck"
       link="https://drive.google.com/file/d/1kFxQAYV0v6h_FuYdNKYbSyzn5vCYeZst/view?usp=sharing"
