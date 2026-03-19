@@ -106,7 +106,7 @@ export default function Page() {
       <Section id="about" title="ABOUT">
         <div className="grid md:grid-cols-2 gap-24">
           <p className="text-xl leading-loose text-[#bdbdbd]">
-            My work sits at the intersection of business, sales, and technology —
+            My work sits at the intersection of business, sales, and technology
             translating strategy into execution across go-to-market, customer
             conversations, and early-stage growth.
           </p>
@@ -126,6 +126,16 @@ export default function Page() {
       link="https://www.notion.so/B2B-SaaS-Outreach-Capstone-LinkedIn-Recruiter-2dfd7813d1db80f7815ad0440ed0cacd?source=copy_link"
     />
     <Project
+      logo="/logos/Payoneer_id3dQEWV2h_1.png"
+      title="B2B SaaS Outreach Capstone <> Payoneer"
+      link="https://www.notion.so/Payoneer-Outbound-Capstone-2e7d7813d1db8081824fce05c6a780d3?source=copy_link"
+    />
+    <Project
+      logo="/logos/GoKwik Symbol.png"
+      title="Outbound GTM <> GoKwik"
+      link="https://www.notion.so/GoKwik-314d7813d1db80a9bc6ce8aa0437ef24?source=copy_link"
+    />
+    <Project
       logo="/logos/birdeye.png"
       title="BirdEye <> Sales Deck"
       link="https://drive.google.com/file/d/1kFxQAYV0v6h_FuYdNKYbSyzn5vCYeZst/view?usp=sharing"
@@ -136,19 +146,9 @@ export default function Page() {
       link="https://docs.google.com/spreadsheets/d/1u4FVa779zJl05OAoA1yAOioiKGEbCYypssiCSk0DZU4/edit?usp=sharing"
     />
     <Project
-      logo="/logos/bomdrop.png"
-      title="BomDrop — Winning GTM Strategy"
-      link="https://www.notion.so/GTM-Bomdrop-X-HiveSchool-277d7813d1db809f8a03fbd58c8df431?source=copy_link"
-    />
-    <Project
       logo="/logos/minimalist.png"
       title="Minimalist Growth Capstone"
       link="https://www.notion.so/Minimalist-Growth-Capstone-2dcd7813d1db8026aedbdeb8cfc96b87?source=copy_link"
-    />
-    <Project
-      logo="/logos/drivigo.png"
-      title="Drivigo — Market Entry & Revenue GTM"
-      link="https://www.notion.so/GTM-Strategy-Drivigo-244d7813d1db801e8bf8e791c88bb39a?source=copy_link"
     />
   </div>
 </Section>
@@ -286,7 +286,7 @@ function Hero() {
       </motion.div>
 
       <p className="mt-14 max-w-2xl mx-auto text-xl text-[#cfcfcf] leading-loose">
-        Revenue · GTM · Business Operator focused on execution,
+        Sales · Revenue · GTM · Business Operator focused on execution,
         systems thinking, and turning ambiguity into outcomes.
       </p>
     </div>
