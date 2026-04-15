@@ -167,7 +167,7 @@ ACIC–SGTU Incubation Cell."
 
         <TwoCol
           logo="/logos/jynara.png"
-          left={`Customer Care Executive Intern — Jynara Clothing
+          left={`Customer Success Associate — Jynara Clothing
 Jan 2025 – Mar 2025`}
           right="Handled COD confirmations, NDR resolution, delivery coordination,
 and exchange-related customer queries. Reduced confusion and improved
@@ -184,7 +184,7 @@ and contributing to core development workflows following scalable practices."
 
         <TwoCol
           logo="/logos/sterling.png"
-          left={`Telecaller Intern — Sterling Enterprise
+          left={`Sales Development Representative — Sterling Enterprise
 Jun 2022 – Aug 2022`}
           right="Executed outbound prospecting, handled objections, and converted
 leads into MOFU-stage opportunities, improving conversion rates."
