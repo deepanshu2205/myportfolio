@@ -175,14 +175,6 @@ order completion rates."
         />
 
         <TwoCol
-          logo="/logos/technोहacks.png"
-          left={`Full Stack Developer Intern — TechnoHacks EduTech
-May 2024 – Jul 2024`}
-          right="Worked on Java-based applications, debugging and optimizing code,
-and contributing to core development workflows following scalable practices."
-        />
-
-        <TwoCol
           logo="/logos/sterling.png"
           left={`Sales Development Representative — Sterling Enterprise
 Jun 2022 – Aug 2022`}
