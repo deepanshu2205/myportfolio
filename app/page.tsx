@@ -157,6 +157,13 @@ export default function Page() {
       {/* EXPERIENCE */}
       <Section id="experience" title="EXPERIENCE">
         <TwoCol
+          logo="/logos/mygate.png"
+          left={`Enterprise Sales Manager - MyGate
+May 2026 – Present`}
+          right="Built the PSU enterprise sales funnel for large townships through targeted multi-channel outbound campaigns"
+        />
+
+        <TwoCol
           logo="/logos/drivigo.png"
           left={`Founder & Director — Drivigo Training Pvt. Ltd.
 Nov 2024 – Nov 2025`}
